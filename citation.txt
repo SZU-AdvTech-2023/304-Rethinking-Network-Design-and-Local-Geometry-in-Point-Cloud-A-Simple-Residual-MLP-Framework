@@ -1,0 +1,6 @@
+@article{REPO304,
+    author = "Ma, Xu and Qin, Can and You, Haoxuan and Ran, Haoxi and Fu, Yun",
+    journal = "arXiv preprint arXiv:2202.07123",
+    title = "{Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework}",
+    year = "2022"
+}
